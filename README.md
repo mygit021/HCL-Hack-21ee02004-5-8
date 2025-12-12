@@ -63,10 +63,12 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-3. Install required dependencies:
+3. Install required dependencies (once requirements.txt is added):
 ```bash
 pip install -r requirements.txt
 ```
+
+*Note: Dependencies will be added to requirements.txt as the project develops.*
 
 ## Usage
 
